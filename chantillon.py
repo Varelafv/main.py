@@ -14,4 +14,5 @@ def type_square(fc, n,p):
     t_gating = ((t_x / 2) * p) / 100
     return (t_x, f_x, t_unit, t_gating)  # #echantillon par ns *temps mise pour total de n
 
-
+def type_triangle:
+    print("triangle")
