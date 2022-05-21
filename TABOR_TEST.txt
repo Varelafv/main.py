@@ -1,0 +1,30 @@
+2022-05-18 15:18:49.461927
+********PRESENTATION DES VALEURS  ******* 
+
+2000000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Temps Gating tg = 0.0ns 
+Signal à 1pts en 0.25ns 
+************TABOR FINISHED ************** 
+2022-05-18 16:06:58.452637
+********PRESENTATION DES VALEURS  ******* 
+
+200000pts dans un  Periode de T= 250000.00ns 
+Frequence de 0.004MHz 
+Temps Gating tg = 0.0ns 
+Signal à 1pts en 1.2ns 
+************TABOR FINISHED ************** 
+2022-05-18 20:00:27.921349
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 5000000.00ns 
+Frequence de 0.0002MHz 
+Signal à 1pts en 5e+01ns 
+************TABOR FINISHED ************** 
+2022-05-18 20:01:54.539098
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
